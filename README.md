@@ -8,13 +8,11 @@ crée sans pb
 Il faut récupérer le programme dans le chapitre deux du livre.
 
 - récupérer le pdf 
-- chercher le page
+- chercher la page
 - recopier le programme dans un éditeur
 - éxecuter
 
-````python
-TOTO=TATA
-i=1
-```
+Le programme nous retourne bien le texte en lettre capitales.
+
 
 
