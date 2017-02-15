@@ -5,4 +5,4 @@ crée sans pb
 
 ## client UDP phyton
 
-Il fatr récupérer le programme dans le chapitre deux du livre.
+Il faut récupérer le programme dans le chapitre deux du livre.
